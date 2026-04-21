@@ -1,0 +1,98 @@
+# Advertorial Swipe File
+
+Full-page clones of 41 advertorials + 29 dead links for reference when writing new advertorials for clients.
+
+## How to use
+
+Each folder under `swipes/` contains:
+- `index.html` — self-contained page (HTML + CSS + images embedded via `monolith`). Open in a browser or feed to an AI for analysis.
+- `source.txt` — the original URL.
+
+Paste the raw `index.html` content (or a link to it) into a Claude conversation when drafting a new advertorial — the AI can reference hook structure, pacing, proof elements, CTAs, and visual layout.
+
+## Regenerating / adding new swipes
+
+```bash
+brew install monolith
+# Add URLs to urls.txt, then:
+python3 clone.py
+python3 build_readme.py
+```
+
+## Live swipes (41)
+
+- [`thenewfind__home-garden-bed-scrunchie`](swipes/thenewfind__home-garden-bed-scrunchie/index.html) (3.7 MB) — [source](https://thenewfind.com/blogs/home-garden/bed-scrunchie)
+- [`thenewfind__home-garden-surge-bulbs`](swipes/thenewfind__home-garden-surge-bulbs/index.html) (14.7 MB) — [source](https://thenewfind.com/blogs/home-garden/surge-bulbs)
+- [`thenewfind__style-beauty-pluxy`](swipes/thenewfind__style-beauty-pluxy/index.html) (4.1 MB) — [source](https://thenewfind.com/blogs/style-beauty/pluxy)
+- [`thenewfind__style-beauty-foot-peel-mask`](swipes/thenewfind__style-beauty-foot-peel-mask/index.html) (4.1 MB) — [source](https://thenewfind.com/blogs/style-beauty/foot-peel-mask)
+- [`thenewfind__health-fitness-dodow`](swipes/thenewfind__health-fitness-dodow/index.html) (3.0 MB) — [source](https://thenewfind.com/blogs/health-fitness/dodow)
+- [`thenewfind__health-fitness-aculief`](swipes/thenewfind__health-fitness-aculief/index.html) (3.0 MB) — [source](https://thenewfind.com/blogs/health-fitness/aculief)
+- [`m-healthyfeet__fungus-v12-en`](swipes/m-healthyfeet__fungus-v12-en/index.html) (2.7 MB) — [source](https://m.healthyfeet.me/fungus-v12-en/?ref=natuwidg.com&action=view&encrypt=hSalSwKuYZtdHe7StQGjchnVHL99k1sdK9Tci3l2Lzq6tzc&c=42553&site=TestoultraWWALL_DE_Transfermarkt.com%20(Transfermarkt)_DE_Transfermarkt.com%20(Transfermarkt)_00a2a13e1cc127a7d556ee281a142a1b4c&prot=2)
+- [`trkmeded__ed-v23-en-ww`](swipes/trkmeded__ed-v23-en-ww/index.html) (2.6 MB) — [source](https://trkmeded.com/ed-v23-en-ww/?ref=strazafiletth.com&action=view&encrypt=gh8s0LVwICRquZukh3clIjznGC5hd4QhC26JjNMhpY4&c=42490&ob_marketer=MED7&ob_publisher_id=002be1920854263eb67627023e921f235c&ob_section_id=00f2e8e0075da8f1467aa4ada0c6a77784&ob_ad_id=00a2a13e1cc127a7d556ee281a142a1b4c&ob_timestamp=20231122105607&ob_platform=ALL&ob_campaign_id=009243074d72f08ee02ba768ce4daa2443&ob_doc_title=Latest%20ED%20Treatment%20Works%20in%20Less%20than%20Half%20Hour&site=TestoultraWWALL_DE_Transfermarkt.com%20(Transfermarkt)_DE_Transfermarkt.com%20(Transfermarkt)_00a2a13e1cc127a7d556ee281a142a1b4c&mavcid=42490&ob_cpc=0.027&ob_marketer_id=009ae3b61d5ec8f433ea881f0ecac5c3c0&dicbo=v4-ATJzKh1-1088980856&prot=2)
+- [`thenewfind__home-garden-lifevac`](swipes/thenewfind__home-garden-lifevac/index.html) (2.8 MB) — [source](https://thenewfind.com/blogs/home-garden/lifevac)
+- [`sugarworx__diabetes-v3-en`](swipes/sugarworx__diabetes-v3-en/index.html) (2.8 MB) — [source](https://sugarworx.org/diabetes-v3-en/?ref=natuwidg.com&action=view&encrypt=AsaOQz7rVtAeUeZvMxP1zGAFLNDHqxOoCdM189rrcsQ&c=42554&site=TestoultraWWALL_DE_Transfermarkt.com%20(Transfermarkt)_DE_Transfermarkt.com%20(Transfermarkt)_00a2a13e1cc127a7d556ee281a142a1b4c&prot=2)
+- [`learn-cleanomicessentials__bags-zipbags`](swipes/learn-cleanomicessentials__bags-zipbags/index.html) (15.9 MB) — [source](https://learn.cleanomicessentials.com/bags/zipbags/??lpv=Zipbags-Essenntials-LP(BST)-07-08-22&lpv=Zipbags-Essentials-LP(BST)-07-08-22)
+- [`organidate__prostate-oa`](swipes/organidate__prostate-oa/index.html) (5.7 MB) — [source](https://organidate.com/prostate-oa/?ref=natuwidg.com&action=view&encrypt=C51xENTzSSIksepNfLKRIbWhSalSR3nPF9JzsULpeXnuKeo7Lg&c=42552&site=TestoultraWWALL_DE_Transfermarkt.com%20(Transfermarkt)_DE_Transfermarkt.com%20(Transfermarkt)_00a2a13e1cc127a7d556ee281a142a1b4c&prot=2)
+- [`swipefile__advertorials`](swipes/swipefile__advertorials/index.html) (84.3 MB) — [source](https://swipefile.com/advertorials/)
+- [`swiped__types-advertorial-page-4`](swipes/swiped__types-advertorial-page-4/index.html) (24.5 MB) — [source](https://swiped.co/types/advertorial/page/4/)
+- [`thenewfind__home-garden-the-wand`](swipes/thenewfind__home-garden-the-wand/index.html) (3.2 MB) — [source](https://thenewfind.com/blogs/home-garden/the-wand)
+- [`blog-well-being-review__lost-23-ibs-in-one-month`](swipes/blog-well-being-review__lost-23-ibs-in-one-month/index.html) (80.7 MB) — [source](https://blog.well-being-review.com/lost-23-ibs-in-one-month)
+- [`thenewfind__home-garden-imemories`](swipes/thenewfind__home-garden-imemories/index.html) (2.7 MB) — [source](https://thenewfind.com/blogs/home-garden/imemories)
+- [`thenewfind__health-fitness-my-happy-feet-socks`](swipes/thenewfind__health-fitness-my-happy-feet-socks/index.html) (4.9 MB) — [source](https://thenewfind.com/blogs/health-fitness/my-happy-feet-socks)
+- [`thenewfind__gadgets-tech-godonut`](swipes/thenewfind__gadgets-tech-godonut/index.html) (3.0 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/godonut)
+- [`thenewfind__health-fitness-soul-insole`](swipes/thenewfind__health-fitness-soul-insole/index.html) (2.9 MB) — [source](https://thenewfind.com/blogs/health-fitness/soul-insole)
+- [`consumerbags__rival`](swipes/consumerbags__rival/index.html) (11.8 MB) — [source](https://consumerbags.com/review/rival/)
+- [`thenewfind__health-fitness-theraice`](swipes/thenewfind__health-fitness-theraice/index.html) (3.7 MB) — [source](https://thenewfind.com/blogs/health-fitness/theraice)
+- [`thenewfind__gadgets-tech-flightpath`](swipes/thenewfind__gadgets-tech-flightpath/index.html) (4.2 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/flightpath)
+- [`lifetechadviser__cardiotrack-en-o`](swipes/lifetechadviser__cardiotrack-en-o/index.html) (11.8 MB) — [source](https://lifetechadviser.com/cardiotrack-en-o/?dicbo=v4-POGGWgS-1079847997)
+- [`thenewfind__health-fitness-bril`](swipes/thenewfind__health-fitness-bril/index.html) (3.9 MB) — [source](https://thenewfind.com/blogs/health-fitness/bril)
+- [`thenewfind__gadgets-tech-omega-wifi-amp`](swipes/thenewfind__gadgets-tech-omega-wifi-amp/index.html) (4.4 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/omega-wifi-amp)
+- [`thenewfind__health-fitness-omnibreathe`](swipes/thenewfind__health-fitness-omnibreathe/index.html) (3.0 MB) — [source](https://thenewfind.com/blogs/health-fitness/omnibreathe)
+- [`rakvel-qinux__home`](swipes/rakvel-qinux__home/index.html) (0.0 MB) — [source](https://rakvel-qinux.com/?widipub_id=5c8f769def2864110b1a3605&wtrd_offer_id=62f1388c6074ca773b256893&_locale=en&wtrd_offer_pids=62f139554a15bb0674052faa&wtrd_offer_lids=62f139554a15bb0674052fac&dicbo=v4-SCq80B0-1079847997)
+- [`smartguidesdaily__staysafe-yg`](swipes/smartguidesdaily__staysafe-yg/index.html) (0.9 MB) — [source](https://smartguidesdaily.com/staysafe/yg/)
+- [`thenewfind__gadgets-tech-screenklean`](swipes/thenewfind__gadgets-tech-screenklean/index.html) (2.7 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/screenklean)
+- [`thenewfind__gadgets-tech-tiki-tunes`](swipes/thenewfind__gadgets-tech-tiki-tunes/index.html) (2.6 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/tiki-tunes)
+- [`thenewfind__gadgets-tech-react`](swipes/thenewfind__gadgets-tech-react/index.html) (10.9 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/react)
+- [`thenewfind__health-fitness-hale-breathing`](swipes/thenewfind__health-fitness-hale-breathing/index.html) (9.2 MB) — [source](https://thenewfind.com/blogs/health-fitness/hale-breathing)
+- [`thenewfind__health-fitness-beam`](swipes/thenewfind__health-fitness-beam/index.html) (4.5 MB) — [source](https://thenewfind.com/blogs/health-fitness/beam)
+- [`thenewfind__health-fitness-chill-pill`](swipes/thenewfind__health-fitness-chill-pill/index.html) (10.2 MB) — [source](https://thenewfind.com/blogs/health-fitness/chill-pill)
+- [`thenewfind__gadgets-tech-kelvin`](swipes/thenewfind__gadgets-tech-kelvin/index.html) (3.1 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/kelvin)
+- [`thenewfind__gadgets-tech-keyzmo`](swipes/thenewfind__gadgets-tech-keyzmo/index.html) (4.6 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/keyzmo)
+- [`thenewfind__health-fitness-aculief-hat`](swipes/thenewfind__health-fitness-aculief-hat/index.html) (3.2 MB) — [source](https://thenewfind.com/blogs/health-fitness/aculief-hat)
+- [`thenewfind__gadgets-tech-guidelights`](swipes/thenewfind__gadgets-tech-guidelights/index.html) (3.6 MB) — [source](https://thenewfind.com/blogs/gadgets-tech/guidelights)
+- [`thenewfind__health-fitness-kailo`](swipes/thenewfind__health-fitness-kailo/index.html) (28.4 MB) — [source](https://thenewfind.com/blogs/health-fitness/kailo)
+- [`thenewfind__health-fitness-audien`](swipes/thenewfind__health-fitness-audien/index.html) (3.8 MB) — [source](https://thenewfind.com/blogs/health-fitness/audien)
+
+## Dead links (29)
+
+Source advertorials no longer exist (404). Try the Wayback Machine link for each — many advertorials are archived there.
+
+- `thenewfind__home-garden-dynasty-series-knives` — [source (404)](https://thenewfind.com/blogs/home-garden/dynasty-series-knives) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/dynasty-series-knives)
+- `thenewfind__home-garden-amaranth-vase` — [source (404)](https://thenewfind.com/blogs/home-garden/amaranth-vase) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/amaranth-vase)
+- `thenewfind__style-beauty-alleyoop-multi-tasker` — [source (404)](https://thenewfind.com/blogs/style-beauty/alleyoop-multi-tasker) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/style-beauty/alleyoop-multi-tasker)
+- `thenewfind__style-beauty-lux-glo` — [source (404)](https://thenewfind.com/blogs/style-beauty/lux-glo) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/style-beauty/lux-glo)
+- `thenewfind__health-fitness-hiya` — [source (404)](https://thenewfind.com/blogs/health-fitness/hiya) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/hiya)
+- `thenewfind__gadgets-tech-fixd` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/fixd) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/fixd)
+- `thenewfind__gadgets-tech-portable-safe` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/portable-safe) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/portable-safe)
+- `swissklip__story-pb-vid-fb` — [source (404)](https://swissklip.com/story-pb-vid-fb/) · [wayback](https://web.archive.org/web/*/https://swissklip.com/story-pb-vid-fb/)
+- `thenewfind__home-garden-flipfork` — [source (404)](https://thenewfind.com/blogs/home-garden/flipfork) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/flipfork)
+- `thenewfind__gadgets-tech-treva` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/treva) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/treva)
+- `get-scrubninja__adv-en-o` — [source (404)](https://get-scrubninja.shop/adv-en-o/?dicbo=v4-ex8FT7j-1079847997) · [wayback](https://web.archive.org/web/*/https://get-scrubninja.shop/adv-en-o/?dicbo=v4-ex8FT7j-1079847997)
+- `thenewfind__home-garden-purifair` — [source (404)](https://thenewfind.com/blogs/home-garden/purifair) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/purifair)
+- `thenewfind__home-garden-staysafe` — [source (404)](https://thenewfind.com/blogs/home-garden/staysafe) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/staysafe)
+- `thenewfind__home-garden-duo-cover` — [source (404)](https://thenewfind.com/blogs/home-garden/duo-cover) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/duo-cover)
+- `thenewfind__gadgets-tech-gopurepod` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/gopurepod) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/gopurepod)
+- `thenewfind__gadgets-tech-thinoptics` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/thinoptics) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/thinoptics)
+- `thenewfind__gadgets-tech-chargehubgo` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/chargehubgo) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/chargehubgo)
+- `thenewfind__health-fitness-zen-routine` — [source (404)](https://thenewfind.com/blogs/health-fitness/zen-routine) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/zen-routine)
+- `thenewfind__health-fitness-belly-orb` — [source (404)](https://thenewfind.com/blogs/health-fitness/belly-orb) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/belly-orb)
+- `ordershinearmor__a3-new` — [source (404)](https://ordershinearmor.com/a/a3-new/) · [wayback](https://web.archive.org/web/*/https://ordershinearmor.com/a/a3-new/)
+- `silver-suteratowels__home` — [source (404)](https://silver.suteratowels.com/?lpv=Silverthread-Facebook-Mixed(BST)-Banner-08-09-22) · [wayback](https://web.archive.org/web/*/https://silver.suteratowels.com/?lpv=Silverthread-Facebook-Mixed(BST)-Banner-08-09-22)
+- `thenewfind__gadgets-tech-peeps` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/peeps) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/peeps)
+- `thenewfind__gadgets-tech-aquapure` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/aquapure) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/aquapure)
+- `thenewfind__gadgets-tech-hootie` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/hootie) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/hootie)
+- `thenewfind__health-fitness-trigger-point-rocker` — [source (404)](https://thenewfind.com/blogs/health-fitness/trigger-point-rocker) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/trigger-point-rocker)
+- `thenewfind__health-fitness-zquiet` — [source (404)](https://thenewfind.com/blogs/health-fitness/zquiet) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/zquiet)
+- `thenewfind__gadgets-tech-omega-datacube` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/omega-datacube) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/omega-datacube)
+- `thenewfind__health-fitness-active-skin-repair` — [source (404)](https://thenewfind.com/blogs/health-fitness/active-skin-repair) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/active-skin-repair)
+- `thenewfind__health-fitness-the-migraine-stopper` — [source (404)](https://thenewfind.com/blogs/health-fitness/the-migraine-stopper) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/the-migraine-stopper)

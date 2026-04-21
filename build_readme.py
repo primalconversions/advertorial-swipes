@@ -36,12 +36,15 @@ for url in unique:
         if folder.exists() and not any(p.stat().st_size > 1000 for p in folder.glob("index.html")):
             shutil.rmtree(folder, ignore_errors=True)
 
+PAGES = "https://primalconversions.github.io/advertorial-swipes"
+
 lines = [
     "# Advertorial Swipe File\n\n",
     f"Full-page clones of {len(alive)} advertorials + {len(dead)} dead links for reference when writing new advertorials for clients.\n\n",
+    f"**Live site:** {PAGES}/\n\n",
     "## How to use\n\n",
     "Each folder under `swipes/` contains:\n",
-    "- `index.html` — self-contained page (HTML + CSS + images embedded via `monolith`). Open in a browser or feed to an AI for analysis.\n",
+    "- `index.html` — self-contained page (HTML + CSS + images embedded via `monolith`). Click the **view** link below to see it rendered via GitHub Pages, or feed the raw file to an AI for analysis.\n",
     "- `source.txt` — the original URL.\n\n",
     "Paste the raw `index.html` content (or a link to it) into a Claude conversation when drafting a new advertorial — the AI can reference hook structure, pacing, proof elements, CTAs, and visual layout.\n\n",
     "## Regenerating / adding new swipes\n\n",
@@ -52,11 +55,14 @@ lines = [
     "python3 build_readme.py\n",
     "```\n\n",
     f"## Live swipes ({len(alive)})\n\n",
+    "Click **view** to open the rendered page, **raw** to download the file, or **source** to open the original URL.\n\n",
 ]
 for slug, url, size in alive:
     mb = size / 1024 / 1024
     enc = quote(slug, safe="_-")
-    lines.append(f"- [`{slug}`](swipes/{enc}/index.html) ({mb:.1f} MB) — [source]({url})\n")
+    view = f"{PAGES}/swipes/{enc}/index.html"
+    raw = f"https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/{enc}/index.html"
+    lines.append(f"- `{slug}` ({mb:.1f} MB) — [view]({view}) · [raw]({raw}) · [source]({url})\n")
 
 if dead:
     lines.append(f"\n## Dead links ({len(dead)})\n\n")

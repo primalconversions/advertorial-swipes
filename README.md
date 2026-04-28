@@ -1,6 +1,6 @@
 # Advertorial Swipe File
 
-Full-page clones of 41 advertorials + 29 dead links for reference when writing new advertorials for clients.
+Full-page clones of 44 advertorials + 29 dead links for reference when writing new advertorials for clients.
 
 **Live site:** https://primalconversions.github.io/advertorial-swipes/
 
@@ -21,7 +21,7 @@ python3 clone.py
 python3 build_readme.py
 ```
 
-## Live swipes (41)
+## Live swipes (44)
 
 Click **view** to open the rendered page, **raw** to download the file, or **source** to open the original URL.
 
@@ -66,6 +66,9 @@ Click **view** to open the rendered page, **raw** to download the file, or **sou
 - `thenewfind__gadgets-tech-guidelights` (3.6 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/thenewfind__gadgets-tech-guidelights/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/thenewfind__gadgets-tech-guidelights/index.html) · [source](https://thenewfind.com/blogs/gadgets-tech/guidelights)
 - `thenewfind__health-fitness-kailo` (28.4 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/thenewfind__health-fitness-kailo/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/thenewfind__health-fitness-kailo/index.html) · [source](https://thenewfind.com/blogs/health-fitness/kailo)
 - `thenewfind__health-fitness-audien` (3.8 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/thenewfind__health-fitness-audien/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/thenewfind__health-fitness-audien/index.html) · [source](https://thenewfind.com/blogs/health-fitness/audien)
+- `theskinmag__wlc-ov` (8.9 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/theskinmag__wlc-ov/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/theskinmag__wlc-ov/index.html) · [source](https://www.theskinmag.com/wlc-ov)
+- `noorh__hhf-lwr-sedona` (10.8 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/noorh__hhf-lwr-sedona/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/noorh__hhf-lwr-sedona/index.html) · [source](https://www.noorh.co/hhf-lwr-sedona)
+- `tryelvera__pages-kidney-solution` (38.9 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/tryelvera__pages-kidney-solution/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/tryelvera__pages-kidney-solution/index.html) · [source](https://tryelvera.com/pages/kidney-solution)
 
 ## Dead links (29)
 

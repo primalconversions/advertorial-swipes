@@ -70,3 +70,37 @@ Cloning 70 URLs
 [68/70] FAIL(rc=1,size=0)  thenewfind__health-fitness-the-migraine-stopper  <-  https://thenewfind.com/blogs/health-fitness/the-migraine-stopper
 [69/70] OK  thenewfind__health-fitness-kailo  <-  https://thenewfind.com/blogs/health-fitness/kailo
 [70/70] OK  thenewfind__health-fitness-audien  <-  https://thenewfind.com/blogs/health-fitness/audien
+
+--- Incremental clone of 32 new URLs ---
+[1/32] FAIL(rc=1,size=0)  thenewfind__home-garden-dynasty-series-knives  <-  https://thenewfind.com/blogs/home-garden/dynasty-series-knives
+[2/32] FAIL(rc=1,size=0)  thenewfind__home-garden-amaranth-vase  <-  https://thenewfind.com/blogs/home-garden/amaranth-vase
+[3/32] FAIL(rc=1,size=0)  thenewfind__style-beauty-alleyoop-multi-tasker  <-  https://thenewfind.com/blogs/style-beauty/alleyoop-multi-tasker
+[4/32] FAIL(rc=1,size=0)  thenewfind__style-beauty-lux-glo  <-  https://thenewfind.com/blogs/style-beauty/lux-glo
+[5/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-hiya  <-  https://thenewfind.com/blogs/health-fitness/hiya
+[6/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-fixd  <-  https://thenewfind.com/blogs/gadgets-tech/fixd
+[7/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-portable-safe  <-  https://thenewfind.com/blogs/gadgets-tech/portable-safe
+[8/32] TIMEOUT  swissklip__story-pb-vid-fb  <-  https://swissklip.com/story-pb-vid-fb/
+[9/32] FAIL(rc=1,size=0)  thenewfind__home-garden-flipfork  <-  https://thenewfind.com/blogs/home-garden/flipfork
+[10/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-treva  <-  https://thenewfind.com/blogs/gadgets-tech/treva
+[11/32] FAIL(rc=1,size=0)  get-scrubninja__adv-en-o  <-  https://get-scrubninja.shop/adv-en-o/?dicbo=v4-ex8FT7j-1079847997
+[12/32] FAIL(rc=1,size=0)  thenewfind__home-garden-purifair  <-  https://thenewfind.com/blogs/home-garden/purifair
+[13/32] FAIL(rc=1,size=0)  thenewfind__home-garden-staysafe  <-  https://thenewfind.com/blogs/home-garden/staysafe
+[14/32] FAIL(rc=1,size=0)  thenewfind__home-garden-duo-cover  <-  https://thenewfind.com/blogs/home-garden/duo-cover
+[15/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-gopurepod  <-  https://thenewfind.com/blogs/gadgets-tech/gopurepod
+[16/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-thinoptics  <-  https://thenewfind.com/blogs/gadgets-tech/thinoptics
+[17/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-chargehubgo  <-  https://thenewfind.com/blogs/gadgets-tech/chargehubgo
+[18/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-zen-routine  <-  https://thenewfind.com/blogs/health-fitness/zen-routine
+[19/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-belly-orb  <-  https://thenewfind.com/blogs/health-fitness/belly-orb
+[20/32] FAIL(rc=1,size=0)  ordershinearmor__a3-new  <-  https://ordershinearmor.com/a/a3-new/
+[21/32] FAIL(rc=1,size=0)  silver-suteratowels__home  <-  https://silver.suteratowels.com/?lpv=Silverthread-Facebook-Mixed(BST)-Banner-08-09-22
+[22/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-peeps  <-  https://thenewfind.com/blogs/gadgets-tech/peeps
+[23/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-aquapure  <-  https://thenewfind.com/blogs/gadgets-tech/aquapure
+[24/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-hootie  <-  https://thenewfind.com/blogs/gadgets-tech/hootie
+[25/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-trigger-point-rocker  <-  https://thenewfind.com/blogs/health-fitness/trigger-point-rocker
+[26/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-zquiet  <-  https://thenewfind.com/blogs/health-fitness/zquiet
+[27/32] FAIL(rc=1,size=0)  thenewfind__gadgets-tech-omega-datacube  <-  https://thenewfind.com/blogs/gadgets-tech/omega-datacube
+[28/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-active-skin-repair  <-  https://thenewfind.com/blogs/health-fitness/active-skin-repair
+[29/32] FAIL(rc=1,size=0)  thenewfind__health-fitness-the-migraine-stopper  <-  https://thenewfind.com/blogs/health-fitness/the-migraine-stopper
+[30/32] OK  theskinmag__wlc-ov  <-  https://www.theskinmag.com/wlc-ov
+[31/32] OK  noorh__hhf-lwr-sedona  <-  https://www.noorh.co/hhf-lwr-sedona
+[32/32] OK  tryelvera__pages-kidney-solution  <-  https://tryelvera.com/pages/kidney-solution

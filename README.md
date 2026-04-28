@@ -1,6 +1,6 @@
 # Advertorial Swipe File
 
-Full-page clones of 44 advertorials + 0 dead links for reference when writing new advertorials for clients.
+Full-page clones of 45 advertorials + 0 dead links for reference when writing new advertorials for clients.
 
 **Live site:** https://primalconversions.github.io/advertorial-swipes/
 
@@ -21,7 +21,7 @@ python3 clone.py
 python3 build_readme.py
 ```
 
-## Live swipes (44)
+## Live swipes (45)
 
 Click **view** to open the rendered page, **raw** to download the file, or **source** to open the original URL.
 
@@ -69,3 +69,4 @@ Click **view** to open the rendered page, **raw** to download the file, or **sou
 - `theskinmag__wlc-ov` (8.9 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/theskinmag__wlc-ov/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/theskinmag__wlc-ov/index.html) · [source](https://www.theskinmag.com/wlc-ov)
 - `noorh__hhf-lwr-sedona` (10.8 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/noorh__hhf-lwr-sedona/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/noorh__hhf-lwr-sedona/index.html) · [source](https://www.noorh.co/hhf-lwr-sedona)
 - `tryelvera__pages-kidney-solution` (38.9 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/tryelvera__pages-kidney-solution/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/tryelvera__pages-kidney-solution/index.html) · [source](https://tryelvera.com/pages/kidney-solution)
+- `magnali__pages-charlesanderson` (48.8 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/magnali__pages-charlesanderson/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/magnali__pages-charlesanderson/index.html) · [source](https://magnali.com/pages/charlesanderson?fbclid=IwY2xjawRdqnJleHRuA2FlbQIxMABicmlkETEwcndjTk02RUFZaDhqdXpQc3J0YwZhcHBfaWQPNTQxNjM5NDkzODg5MDI1AAEeAv6ay_3FvUrGbb8-p1tSG-yxZYcAhXw-cZZEBaIO7YpcShz2gqv3QrNz71Y_aem_x3Oin5o5TQNJjPXOfONoOQ)

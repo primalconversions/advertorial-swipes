@@ -1,6 +1,6 @@
 # Advertorial Swipe File
 
-Full-page clones of 44 advertorials + 29 dead links for reference when writing new advertorials for clients.
+Full-page clones of 44 advertorials + 0 dead links for reference when writing new advertorials for clients.
 
 **Live site:** https://primalconversions.github.io/advertorial-swipes/
 
@@ -69,37 +69,3 @@ Click **view** to open the rendered page, **raw** to download the file, or **sou
 - `theskinmag__wlc-ov` (8.9 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/theskinmag__wlc-ov/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/theskinmag__wlc-ov/index.html) · [source](https://www.theskinmag.com/wlc-ov)
 - `noorh__hhf-lwr-sedona` (10.8 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/noorh__hhf-lwr-sedona/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/noorh__hhf-lwr-sedona/index.html) · [source](https://www.noorh.co/hhf-lwr-sedona)
 - `tryelvera__pages-kidney-solution` (38.9 MB) — [view](https://primalconversions.github.io/advertorial-swipes/swipes/tryelvera__pages-kidney-solution/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/advertorial-swipes/main/swipes/tryelvera__pages-kidney-solution/index.html) · [source](https://tryelvera.com/pages/kidney-solution)
-
-## Dead links (29)
-
-Source advertorials no longer exist (404). Try the Wayback Machine link for each — many advertorials are archived there.
-
-- `thenewfind__home-garden-dynasty-series-knives` — [source (404)](https://thenewfind.com/blogs/home-garden/dynasty-series-knives) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/dynasty-series-knives)
-- `thenewfind__home-garden-amaranth-vase` — [source (404)](https://thenewfind.com/blogs/home-garden/amaranth-vase) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/amaranth-vase)
-- `thenewfind__style-beauty-alleyoop-multi-tasker` — [source (404)](https://thenewfind.com/blogs/style-beauty/alleyoop-multi-tasker) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/style-beauty/alleyoop-multi-tasker)
-- `thenewfind__style-beauty-lux-glo` — [source (404)](https://thenewfind.com/blogs/style-beauty/lux-glo) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/style-beauty/lux-glo)
-- `thenewfind__health-fitness-hiya` — [source (404)](https://thenewfind.com/blogs/health-fitness/hiya) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/hiya)
-- `thenewfind__gadgets-tech-fixd` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/fixd) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/fixd)
-- `thenewfind__gadgets-tech-portable-safe` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/portable-safe) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/portable-safe)
-- `swissklip__story-pb-vid-fb` — [source (404)](https://swissklip.com/story-pb-vid-fb/) · [wayback](https://web.archive.org/web/*/https://swissklip.com/story-pb-vid-fb/)
-- `thenewfind__home-garden-flipfork` — [source (404)](https://thenewfind.com/blogs/home-garden/flipfork) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/flipfork)
-- `thenewfind__gadgets-tech-treva` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/treva) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/treva)
-- `get-scrubninja__adv-en-o` — [source (404)](https://get-scrubninja.shop/adv-en-o/?dicbo=v4-ex8FT7j-1079847997) · [wayback](https://web.archive.org/web/*/https://get-scrubninja.shop/adv-en-o/?dicbo=v4-ex8FT7j-1079847997)
-- `thenewfind__home-garden-purifair` — [source (404)](https://thenewfind.com/blogs/home-garden/purifair) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/purifair)
-- `thenewfind__home-garden-staysafe` — [source (404)](https://thenewfind.com/blogs/home-garden/staysafe) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/staysafe)
-- `thenewfind__home-garden-duo-cover` — [source (404)](https://thenewfind.com/blogs/home-garden/duo-cover) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/home-garden/duo-cover)
-- `thenewfind__gadgets-tech-gopurepod` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/gopurepod) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/gopurepod)
-- `thenewfind__gadgets-tech-thinoptics` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/thinoptics) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/thinoptics)
-- `thenewfind__gadgets-tech-chargehubgo` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/chargehubgo) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/chargehubgo)
-- `thenewfind__health-fitness-zen-routine` — [source (404)](https://thenewfind.com/blogs/health-fitness/zen-routine) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/zen-routine)
-- `thenewfind__health-fitness-belly-orb` — [source (404)](https://thenewfind.com/blogs/health-fitness/belly-orb) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/belly-orb)
-- `ordershinearmor__a3-new` — [source (404)](https://ordershinearmor.com/a/a3-new/) · [wayback](https://web.archive.org/web/*/https://ordershinearmor.com/a/a3-new/)
-- `silver-suteratowels__home` — [source (404)](https://silver.suteratowels.com/?lpv=Silverthread-Facebook-Mixed(BST)-Banner-08-09-22) · [wayback](https://web.archive.org/web/*/https://silver.suteratowels.com/?lpv=Silverthread-Facebook-Mixed(BST)-Banner-08-09-22)
-- `thenewfind__gadgets-tech-peeps` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/peeps) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/peeps)
-- `thenewfind__gadgets-tech-aquapure` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/aquapure) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/aquapure)
-- `thenewfind__gadgets-tech-hootie` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/hootie) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/hootie)
-- `thenewfind__health-fitness-trigger-point-rocker` — [source (404)](https://thenewfind.com/blogs/health-fitness/trigger-point-rocker) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/trigger-point-rocker)
-- `thenewfind__health-fitness-zquiet` — [source (404)](https://thenewfind.com/blogs/health-fitness/zquiet) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/zquiet)
-- `thenewfind__gadgets-tech-omega-datacube` — [source (404)](https://thenewfind.com/blogs/gadgets-tech/omega-datacube) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/gadgets-tech/omega-datacube)
-- `thenewfind__health-fitness-active-skin-repair` — [source (404)](https://thenewfind.com/blogs/health-fitness/active-skin-repair) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/active-skin-repair)
-- `thenewfind__health-fitness-the-migraine-stopper` — [source (404)](https://thenewfind.com/blogs/health-fitness/the-migraine-stopper) · [wayback](https://web.archive.org/web/*/https://thenewfind.com/blogs/health-fitness/the-migraine-stopper)

@@ -1,0 +1,32 @@
+# Source advertorials returning 404 — kept here for reference (Wayback Machine may have copies).
+# Excluded from urls.txt so clone_new.py does not retry them.
+
+https://thenewfind.com/blogs/home-garden/dynasty-series-knives
+https://thenewfind.com/blogs/home-garden/amaranth-vase
+https://thenewfind.com/blogs/style-beauty/alleyoop-multi-tasker
+https://thenewfind.com/blogs/style-beauty/lux-glo
+https://thenewfind.com/blogs/health-fitness/hiya
+https://thenewfind.com/blogs/gadgets-tech/fixd
+https://thenewfind.com/blogs/gadgets-tech/portable-safe
+https://swissklip.com/story-pb-vid-fb/
+https://thenewfind.com/blogs/home-garden/flipfork
+https://thenewfind.com/blogs/gadgets-tech/treva
+https://get-scrubninja.shop/adv-en-o/?dicbo=v4-ex8FT7j-1079847997
+https://thenewfind.com/blogs/home-garden/purifair
+https://thenewfind.com/blogs/home-garden/staysafe
+https://thenewfind.com/blogs/home-garden/duo-cover
+https://thenewfind.com/blogs/gadgets-tech/gopurepod
+https://thenewfind.com/blogs/gadgets-tech/thinoptics
+https://thenewfind.com/blogs/gadgets-tech/chargehubgo
+https://thenewfind.com/blogs/health-fitness/zen-routine
+https://thenewfind.com/blogs/health-fitness/belly-orb
+https://ordershinearmor.com/a/a3-new/
+https://silver.suteratowels.com/?lpv=Silverthread-Facebook-Mixed(BST)-Banner-08-09-22
+https://thenewfind.com/blogs/gadgets-tech/peeps
+https://thenewfind.com/blogs/gadgets-tech/aquapure
+https://thenewfind.com/blogs/gadgets-tech/hootie
+https://thenewfind.com/blogs/health-fitness/trigger-point-rocker
+https://thenewfind.com/blogs/health-fitness/zquiet
+https://thenewfind.com/blogs/gadgets-tech/omega-datacube
+https://thenewfind.com/blogs/health-fitness/active-skin-repair
+https://thenewfind.com/blogs/health-fitness/the-migraine-stopper
